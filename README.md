@@ -2,5 +2,8 @@
 
 # <p align="center"> HabiTrack Wildlife Tracking System </p>
 
+<p align="center"> Cadevida, Andrei Gene M. </p>
+<p align="center"> IT-2104 </p>
+
 
 
