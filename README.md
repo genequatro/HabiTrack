@@ -26,6 +26,11 @@ The HabiTrack Wildlife Tracking System aligns with SDG 15: Life On Land by track
 
 - Tracking the wildlife that can be found around us can be beneficial to us since extinction is increasing rapidly and is a major problem. By tracking where these wildlife can be found, we can locate and find them to protect these creatures from poachers and possible captures of wildlife.
 
+## Instructions for Running the Program
+
+## I. Download all of the files and extract them.
+
+## II. When The files are downloaded, open up the HabiTrack.py and run it.
 
 
 
