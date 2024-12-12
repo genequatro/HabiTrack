@@ -19,7 +19,8 @@ The application integrates several key Python concepts and libraries to make its
 
 - Error Handling: To ensure that the user inputs the correct values in the system, error handling is implemented using messageboxes and warning messages are displayed if any fields were missing or incorrect.
 
-![image](https://github.com/user-attachments/assets/fd6f4323-48e2-4b86-812c-a238a3ca43b5)
+## Integration with SDGs (Sustainable Development Goals)
+![image](https://github.com/user-attachments/assets/5ec16d86-975b-48eb-a14b-35a6a69a9522)
 
 
 
