@@ -35,9 +35,9 @@ II. When The files are downloaded, open up the HabiTrack.py and run it.
 1. When the system starts, you will be met with a login form. Input all of the necessary details and then login.
 2. The Main System will then pop up.
 3. Select which page you're willing top visit first.
-- Status Page: This is where you can track the number of species that are currently tracked
-- Track Page: This is where you can input and track the wildlife you can encounter with
-- SDG page: This is where you'll find the sdg the HabiTrack System is aligned with.
+-- Status Page: This is where you can track the number of species that are currently tracked
+-- Track Page: This is where you can input and track the wildlife you can encounter with
+-- SDG page: This is where you'll find the sdg the HabiTrack System is aligned with.
 
 
 
