@@ -20,6 +20,6 @@ The application integrates several key Python concepts and libraries to make its
 - Error Handling: To ensure that the user inputs the correct values in the system, error handling is implemented using messageboxes and warning messages are displayed if any fields were missing or incorrect.
  
 ## Integration with SDGS (Sustainable Development Goals)
-![image](https://github.com/user-attachments/assets/a002ecd5-4534-402b-886d-509ceb068021)
+<p align="center"> ![image](https://github.com/user-attachments/assets/a002ecd5-4534-402b-886d-509ceb068021) </p>
 
 
