@@ -8,5 +8,6 @@
 #
 
 ## Overview
+The HabiTrack system is designed to give emphasis on wildlife tracking and conservation efforts. By providing a platform for efficient data collection, management, and analysis on species locations and behaviors, HabiTrack gives way to contribute to environmental and wilflife exctinction. This system streamlines the process of recording crucial wilflife data, where users can gain insights to wildlife populations, indentify where they were spotted and found, and lastly track them. HabiTrack aims to foster a deeper understanding of wildlife ecology and facilitate mmeasures to protect endagered species and their habitats.
 
 
