@@ -13,6 +13,12 @@ The HabiTrack system is designed to give emphasis on wildlife tracking and conse
 ## Pythong Concepts and Libraries Used
 The application integrates several key Python concepts and libraries to make its GUI and manage their interactions.
 
-- Object Oriented Programming (OOP): The system uses OOP specifically Abstraction to hide the implementation of databases query from the main program.
+- Object Oriented Programming (OOP): The system uses OOP specifically Abstraction and Encapsulation to hide the implementation of databases query from the main program.
+
+- Tkinter: TThe GUI or Graphical User Interface is created using Tkinter, which provides interactive buttons, label, entry fields, menus for the user to engage in the tracking system.
+
+- Error Handling: To ensure that the user inputs the correct values in the system, error handling is implemented using messageboxes and warning messages are displayed if any fields were missing or incorrect.
+ 
+## Integration with SDGS (Sustainable Development Goals)
 
 
