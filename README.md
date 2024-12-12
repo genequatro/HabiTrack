@@ -22,5 +22,10 @@ The application integrates several key Python concepts and libraries to make its
 ## Integration with SDGs (Sustainable Development Goals)
 ![image](https://github.com/user-attachments/assets/5ec16d86-975b-48eb-a14b-35a6a69a9522)
 
+The HabiTrack Wildlife Tracking System aligns with SDG 15: Life On Land by tracking wildlife populations and their locations, HabiTrack Provides data for understanding the threats of extinction and addresses the threats to biodiversity.
+
+- Tracking the wildlife that can be found around us can be beneficial to us since extinction is increasing rapidly and is a major problem. By tracking where these wildlife can be found, we locate and find them to protect these creatures from poachers and possible captures of wildlife.
+
+
 
 
